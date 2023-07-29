@@ -170,6 +170,6 @@ if __name__ == '__main__':
             #print(wikicode_argument)
 
             page.text = wikicode_argument
-            page.save("ChatGPT created this argument")
+            page.save("Contenu généré par ChatGPT")
 
 
